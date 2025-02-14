@@ -13,7 +13,7 @@ const track = async () => {
   await logsnag.track({
     channel: "yes",
     event: "Valentine's Day",
-    description: "She said yes!",
+    description: "She dey scatter my head!",
     icon: "💖",
     notify: true,
   });
@@ -22,17 +22,17 @@ const track = async () => {
 function App() {
   const steps = [
     {
-      content: "Heyyyyy, pretty girl.",
+      content: "Heyyyyy, Gloria.",
       image: "/character/one.png",
     },
     {
-      content: `Recently, we met.
-      And somehow, you've been on my mind ever since.
+      content: `When will you pay rent.
+      You've been living in my head rent free.
       `,
       image: "/character/two.png",
     },
     {
-      content: `Then we went on our first date…And I realized—yep, I want this girl. For life.
+      content: `Every moment we spent chatting, on calls leaves me wanting more, it seems I can't get enough of you my sweet girl.
       `,
       image: "/character/three.png",
     },
@@ -42,8 +42,8 @@ and you make spending time together feel too short.`,
       image: "/character/four.png",
     },
     {
-      content: `I look forward to when I'll see you again,
-hold your hands, and look into your pretty eyes.`,
+      content: `I look forward to when we'll see,
+I'll hold your hands, and look into your pretty eyes smilling sheepishly.`,
       image: "/character/five.png",
     },
     {
@@ -51,7 +51,7 @@ hold your hands, and look into your pretty eyes.`,
       image: "/character/six.png",
     },
     {
-      content: "Will you be my Valentine?",
+      content: "Will you be my honeybunch, sugar plum Pumpy-umpy-umpkin, my sweetie pie, my cuppy cake, gumdrop, snoogums-boogums the apple of my eye🥹 ?",
       image: "/character/seven.png",
     },
   ];
